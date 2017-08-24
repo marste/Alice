@@ -27,11 +27,11 @@ description: I miei primi 3 anni...
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Search: "search"
   Preferiti:
     - Erica: "http://erica.marzorati.co/"
     - Papà: "http://stefano.marzorati.co/"
-  Search: "search"
+  About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
