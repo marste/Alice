@@ -4,7 +4,6 @@ title: Al mare a Valverde di Cesenatico
 date: 2017-07-27 16:50:00 +0200
 author: Alice Marzorati
 published: true
-permalink: /mare-valverde-cesenatico/
 categories:
   - Me
 tags:

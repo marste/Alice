@@ -4,7 +4,6 @@ title: Con la mia sorellina
 date: 2017-07-26 19:50:00 +0200
 author: Alice Marzorati
 published: true
-permalink: /mare-valverde-cesenatico-sorellina-erica/
 categories:
   - Me
 tags:
