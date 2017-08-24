@@ -43,8 +43,8 @@ avatar: "https://farm5.staticflickr.com/4422/36338067630_35412523d4_s.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
+  name: Alice Marzorati
+  email: "alice.marzorati.co"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
