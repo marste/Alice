@@ -11,6 +11,10 @@ baseurl: ""
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
+# Tipue search settings
+tipue_search:
+  include:
+    pages: true
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
