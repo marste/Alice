@@ -21,7 +21,7 @@ tipue_search:
 title: Alice Marzorati
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: I miei primi 3 anni...
 
 # --- Navigation bar options --- #
 
@@ -96,7 +96,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Alice.Marzorati.CO"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "Alice.Marzorati.co"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
@@ -122,7 +122,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Rome"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
