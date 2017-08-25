@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Al MAGA, Museo Arte di Gallarate
+title: Al MAGA - Museo Arte di Gallarate
 date: 2017-05-07 16:00:00 +0200
 author: Alice Marzorati
 published: true
