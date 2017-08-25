@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gennaio, colazione con un cornetto Algida
-date: 2014-07-06 09:07:00 +0200
+date: 2017-01-08 09:07:00 +0200
 author: Alice Marzorati
 published: true
 categories:
