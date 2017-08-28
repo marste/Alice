@@ -22,5 +22,7 @@ Mescolare, mescolare e impastare, impastare, impastare.
 Dividere in panetti e aggiungere un cucchiaio di tempera del colore voluto ad ogni panetto.
 ....e impastare, impastare, impastare!
 ![pongo1](https://farm5.staticflickr.com/4336/36040428354_81435ced83_b.jpg)
+
 ![pongo2](https://farm5.staticflickr.com/4367/36040428174_37e099f94d_b.jpg)
+
 ![pongo3](https://farm5.staticflickr.com/4341/36040428104_d2f8536153_b.jpg)
