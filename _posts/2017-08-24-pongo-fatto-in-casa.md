@@ -9,11 +9,14 @@ tags:
   - pongo
   - manualità
 ---
-Ecco la ricetta:
+Ecco la ricetta:   
+
 * 2 tazze di farina
 * 1/2 tazza di maizena
 * 1/2 tazza di sale fino frullato   
-Dopo aver mescolato, aggiungere:
+
+Dopo aver mescolato, aggiungere:   
+
 * 2 cucchiai di olio EVO
 * 2 cucchiai di succo di limone, e per finire
 * 1 tazza di acqua bollente   
