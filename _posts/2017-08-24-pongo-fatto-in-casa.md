@@ -8,7 +8,6 @@ categories:
 tags:
   - pongo
   - manualità
-image:
 ---
 Ecco la ricetta:
 * 2 tazze di farina
