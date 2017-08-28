@@ -17,6 +17,7 @@ Dopo aver mescolato, aggiungere:
 * 2 cucchiai di olio EVO
 * 2 cucchiai di succo di limone, e per finire
 * 1 tazza di acqua bollente   
+
 Mescolare, mescolare e impastare, impastare, impastare.   
 Dividere in panetti e aggiungere un cucchiaio di tempera del colore voluto ad ogni panetto.   
 ....e impastare, impastare, impastare!   
