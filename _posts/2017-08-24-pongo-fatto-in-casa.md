@@ -12,8 +12,8 @@ tags:
 Ecco la ricetta:   
 
 * 2 tazze di farina
-* 1/2 tazza di maizena
-* 1/2 tazza di sale fino frullato   
+* ½ tazza di maizena
+* ½ tazza di sale fino frullato   
 
 Dopo aver mescolato, aggiungere:   
 
