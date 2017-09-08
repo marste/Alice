@@ -10,6 +10,6 @@ tags:
   - pico
   - foto
   - settembre
-image: https://start.me/favicon/focus.it
+image:
 ---
 ![focus_pico](https://farm5.staticflickr.com/4348/36140573754_02168884eb_b.jpg)
