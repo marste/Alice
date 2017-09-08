@@ -14,6 +14,7 @@ Ecco la ricetta:
 * 2 tazze di farina
 * ½ tazza di maizena
 * ½ tazza di sale fino frullato   
+* un pizzico di vanillina   
 
 Dopo aver mescolato, aggiungere:   
 
