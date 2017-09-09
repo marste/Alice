@@ -3,12 +3,12 @@ layout: post
 title: Pongo fatto in casa
 author: Alice Marzorati
 published: true
+image: 'https://images-na.ssl-images-amazon.com/images/I/61C+bU5ynlL._SL256_.jpg'
 categories:
   - lavoretti
 tags:
   - pongo
   - manualità
-image: https://images-na.ssl-images-amazon.com/images/I/61C+bU5ynlL._SL256_.jpg
 ---
 Ecco la ricetta:   
 
