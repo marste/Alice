@@ -5,6 +5,7 @@ subtitle: Quasi come stare in Romagna
 author: Alice Marzorati
 published: true
 image: 'https://www.e-slovenie.com/wp-content/uploads/2014/02/krofi-256x256.jpg'
+share-img: 'https://www.e-slovenie.com/wp-content/uploads/2014/02/krofi-256x256.jpg'
 categories:
   - svaghi
 tags:
