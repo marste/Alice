@@ -27,7 +27,7 @@ description: I miei primi 3 anni...
 
 # List of links in the navigation bar
 navbar-links:
-  nav-search: "search"
+  Search: "search"
   Links:
     - Erica: "http://erica.marzorati.co/"
     - Papà: "http://stefano.marzorati.co/"
