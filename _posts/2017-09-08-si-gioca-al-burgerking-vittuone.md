@@ -3,6 +3,8 @@ layout: post
 title: Si gioca al Burger King di Vittuone
 author: Alice Marzorati
 published: true
+image: 'https://lh5.googleusercontent.com/-9S1xjYZdK4E/AAAAAAAAAAI/AAAAAAAAIhU/UejKR8SqPUI/s0-c-k-no-ns/photo.jpg'
+share-img: 'https://lh5.googleusercontent.com/-9S1xjYZdK4E/AAAAAAAAAAI/AAAAAAAAIhU/UejKR8SqPUI/s0-c-k-no-ns/photo.jpg'
 categories:
   - svaghi
 tags:
@@ -11,7 +13,6 @@ tags:
   - video
   - interattivo
   - burger
-image: https://lh5.googleusercontent.com/-9S1xjYZdK4E/AAAAAAAAAAI/AAAAAAAAIhU/UejKR8SqPUI/s0-c-k-no-ns/photo.jpg
 ---
 ![burgerking](https://farm5.staticflickr.com/4367/37106479465_84c7412fb9_h.jpg)   
 
