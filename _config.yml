@@ -28,10 +28,9 @@ description: I miei primi 3 anni...
 # List of links in the navigation bar
 navbar-links:
   Search: "search"
-  Link:
-	Meteo:
-		- Erica: "http://erica.marzorati.co/"
-		- Papà: "http://stefano.marzorati.co/"
+  Links:
+    - Erica: "http://erica.marzorati.co/"
+    - Papà: "http://stefano.marzorati.co/"
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
