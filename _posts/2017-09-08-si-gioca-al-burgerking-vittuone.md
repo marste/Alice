@@ -5,6 +5,8 @@ author: Alice Marzorati
 published: true
 image: 'https://lh5.googleusercontent.com/-9S1xjYZdK4E/AAAAAAAAAAI/AAAAAAAAIhU/UejKR8SqPUI/s0-c-k-no-ns/photo.jpg'
 share-img: 'https://lh5.googleusercontent.com/-9S1xjYZdK4E/AAAAAAAAAAI/AAAAAAAAIhU/UejKR8SqPUI/s0-c-k-no-ns/photo.jpg'
+bigimg:
+  - "https://qzprod.files.wordpress.com/2015/07/burger-king-chicken-fries.jpg?quality=80&strip=all" : "Burger King"
 categories:
   - svaghi
 tags:
