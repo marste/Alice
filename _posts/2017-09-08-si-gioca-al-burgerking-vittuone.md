@@ -5,8 +5,6 @@ author: Alice Marzorati
 published: true
 image: 'https://lh5.googleusercontent.com/-9S1xjYZdK4E/AAAAAAAAAAI/AAAAAAAAIhU/UejKR8SqPUI/s0-c-k-no-ns/photo.jpg'
 share-img: 'https://lh5.googleusercontent.com/-9S1xjYZdK4E/AAAAAAAAAAI/AAAAAAAAIhU/UejKR8SqPUI/s0-c-k-no-ns/photo.jpg'
-bigimg:
-  - 'http://www.burgerking.it/site/assets/files/7812118/website_cover_baconk_1440x676-1.jpg' : "Burger King"
 categories:
   - svaghi
 tags:
