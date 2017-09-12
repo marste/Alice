@@ -4,6 +4,9 @@ title: Pongo fatto in casa
 author: Alice Marzorati
 published: true
 image: 'https://images-na.ssl-images-amazon.com/images/I/61C+bU5ynlL._SL256_.jpg'
+share-img: 'https://images-na.ssl-images-amazon.com/images/I/61C+bU5ynlL._SL256_.jpg'
+bigimg:
+  - "https://i.ytimg.com/vi/_vbiUvNuV2c/maxresdefault.jpg" : "Play-doh"
 categories:
   - lavoretti
 tags:
