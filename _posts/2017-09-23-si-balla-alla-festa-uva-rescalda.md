@@ -1,0 +1,26 @@
+---
+layout: post
+title: Festa dell'Uva - Rescalda 2017
+author: Alice Marzorati
+published: true
+image:
+share-img:
+bigimg:
+  - 
+categories:
+  - svago
+tags:
+  - festa
+  - uva
+  - 2017
+---
+
+![festa_uva_1](https://farm5.staticflickr.com/4483/37015460700_0e871f561d_b.jpg)
+
+![festa_uva_2](https://farm5.staticflickr.com/4368/36561434144_90a677185b_b.jpg)
+
+![festa_uva_3](https://farm5.staticflickr.com/4430/37224499126_80fbbb205c_b.jpg)
+
+![festa_uva_4](https://farm5.staticflickr.com/4428/37224502556_eab718d17c_b.jpg)
+
+<iframe src="https://www.youtube.com/embed/kaWBoV5VUKA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
