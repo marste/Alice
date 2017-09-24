@@ -3,6 +3,7 @@ layout: post
 title: Festa dell'Uva - Rescalda 2017
 author: Alice Marzorati
 published: true
+share-img: 'https://farm5.staticflickr.com/4430/37224499126_80fbbb205c_m.jpg'
 categories:
   - svago
 tags:
