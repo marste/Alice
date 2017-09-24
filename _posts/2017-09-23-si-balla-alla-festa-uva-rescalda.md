@@ -18,4 +18,6 @@ tags:
 
 ![festa_uva_4](https://farm5.staticflickr.com/4428/37224502556_eab718d17c_b.jpg)
 
-<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/kaWBoV5VUKA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video">
+<iframe src="//www.youtube.com/embed/kaWBoV5VUKA" frameborder="0" allowfullscreen></iframe>
+</div>
