@@ -4,6 +4,8 @@ title: Al Chicco Village
 date: 2015-12-10 15:39:00 +0200
 author: Alice Marzorati
 published: true
+share-img: 'https://static-s.aa-cdn.net/img/ios/1151009979/8fbaef43163284d53d7245b71388e06b'
+image: 'https://static-s.aa-cdn.net/img/ios/1151009979/8fbaef43163284d53d7245b71388e06b'
 categories:
   - Me
 tags:
