@@ -3,6 +3,8 @@ layout: post
 title: Racconti sulla panchina
 author: Alice Marzorati
 published: true
+image: 'https://farm5.staticflickr.com/4438/36540482100_d421ec3c8a_q.jpg'
+share-img: 'https://farm5.staticflickr.com/4438/36540482100_d421ec3c8a_q.jpg'
 categories:
   - papà
 tags:
