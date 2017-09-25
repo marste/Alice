@@ -3,8 +3,8 @@ layout: post
 title: Carnevale 2016 a Rescalda
 author: Alice Marzorati
 published: true
-share-img: 'http://www.ilmondodijoyce.com/wp-content/uploads/2017/01/party2.png'
-image: 'http://www.ilmondodijoyce.com/wp-content/uploads/2017/01/party2.png'
+share-img: 'https://ricette-bimby.net/wp-content/uploads/2015/02/carnevale.png'
+image: 'https://ricette-bimby.net/wp-content/uploads/2015/02/carnevale.png'
 categories:
   - svago
 tags:
