@@ -3,8 +3,8 @@ layout: post
 title: Carnevale 2016 a Rescalda
 author: Alice Marzorati
 published: true
-share-img: 'http://www.guidatorino.com/wp-content/uploads/2016/01/carnevale-piemonte.jpg'
-image: 'http://www.guidatorino.com/wp-content/uploads/2016/01/carnevale-piemonte.jpg'
+share-img: 'http://www.ilmondodijoyce.com/wp-content/uploads/2017/01/party2.png'
+image: 'http://www.ilmondodijoyce.com/wp-content/uploads/2017/01/party2.png'
 categories:
   - svago
 tags:
