@@ -15,5 +15,6 @@ tags:
   - stripes
   - cerro maggiore
 ---
-![vendemmia](https://farm5.staticflickr.com/4503/37507252726_2da8fb8aef_h.jpg)
+![vendemmia](https://farm5.staticflickr.com/4503/37507252726_2da8fb8aef_h.jpg)   
+
 ![vendemmia1](https://farm5.staticflickr.com/4486/36845190654_79600d9923_h.jpg)
