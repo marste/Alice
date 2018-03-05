@@ -3,8 +3,8 @@ layout: post
 title: Le mie prime Nike
 author: Alice Marzorati
 published: true
-share-img: 'https://www.iconsdb.com/icons/preview/black/nike-xxl.png'
-image: 'https://www.iconsdb.com/icons/preview/black/nike-xxl.png'
+share-img: 'https://pbs.twimg.com/profile_images/953316238289027072/ysbySMcD_reasonably_small.jpg'
+image: 'https://pbs.twimg.com/profile_images/953316238289027072/ysbySMcD_reasonably_small.jpg'
 categories:
   - svago
 tags:
