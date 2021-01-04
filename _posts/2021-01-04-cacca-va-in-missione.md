@@ -4,8 +4,8 @@ title: La cacca va in missione
 author: Alice Marzorati
 date: 2021-01-04 07:00:00 +0200
 published: true
-share-img: 'https://alice.marzorati.co/img/post/cacca1.png'
 image: 'https://alice.marzorati.co/img/post/cacca1.png'
+share-img: 'https://alice.marzorati.co/img/post/cacca1.png'
 categories: [racconti]
 tags: [favole, racconti, storie, cacca]
 ---
