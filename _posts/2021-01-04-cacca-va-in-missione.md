@@ -14,10 +14,7 @@ tags: [favole, racconti, storie, cacca]
 <img src="https://alice.marzorati.co/img/post/cacca2.png" alt="cacca_in_missione_2">
 </center>
 
-La cacca desiderava viaggiare e un giorno se ne è andata   
-e così incontrò una pianta e la cacca dice ciao e la pianta   
-non rispose, poi incontrò la lepre la cacca dice ciao e la   
-lepre  rispose ciao alla cacca e giocavano.   
+La cacca desiderava viaggiare e un giorno se ne è andata e così incontrò una pianta e la cacca dice ciao e la pianta non rispose, poi incontrò la lepre la cacca dice ciao e la lepre  rispose ciao alla cacca e giocavano.   
 
 <center>
 <img src="https://alice.marzorati.co/img/post/cacca3.png" alt="cacca_in_missione_3">
