@@ -21,7 +21,7 @@ tipue_search:
 title: Alice Marzorati
 
 # Short description of your site
-description: I miei primi 6 anni...
+description: I miei primi 7 anni...
 
 # --- Navigation bar options --- #
 
@@ -67,7 +67,7 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: truee
+  rss: true
   facebook: true
   email: true
   twitter: false
@@ -96,7 +96,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Alice.Marzorati.co"
+url-pretty: "alice.marzorati.co"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
