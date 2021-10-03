@@ -6,7 +6,7 @@ published: true
 image: 'https://images-na.ssl-images-amazon.com/images/I/61C+bU5ynlL._SL256_.jpg'
 share-img: 'https://images-na.ssl-images-amazon.com/images/I/61C+bU5ynlL._SL256_.jpg'
 bigimg:
-  - "https://i.ytimg.com/vi/_vbiUvNuV2c/maxresdefault.jpg" : "Play-doh"
+  - "https://alice.marzorati.co/img/post/play-doh.jpg" : "Play-doh"
 categories:
   - lavoretti
 tags:
