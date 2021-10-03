@@ -5,8 +5,7 @@ author: Alice Marzorati
 published: true
 image: 'https://images-na.ssl-images-amazon.com/images/I/61C+bU5ynlL._SL256_.jpg'
 share-img: 'https://images-na.ssl-images-amazon.com/images/I/61C+bU5ynlL._SL256_.jpg'
-bigimg:
-  - "https://alice.marzorati.co/img/post/play-doh.jpg" : "Play-doh"
+bigimg: ['https://alice.marzorati.co/img/post/play-doh.jpg']
 categories:
   - lavoretti
 tags:
