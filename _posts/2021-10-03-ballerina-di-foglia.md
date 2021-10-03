@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ballerina di foglia"
+title: "Ballerina di foglia in una giornata d'autunno"
 author: Alice Marzorati
 date: 2021-10-03 16:40:00 +0200
 published: true
