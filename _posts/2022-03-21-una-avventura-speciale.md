@@ -19,7 +19,7 @@ C’erano delle casette, un arcobaleno ed un carretto dei gelati!
 
 <center><img src="https://alice.marzorati.co/img/post/casa.png" alt="amicizia"></center>
 
-## <center>**ERA BELLISSIMO**</center>
+## <center>ERA BELLISSIMO</center>
 Era come un luna park perché <span style="color:purple">c’era tutto quello che desideri tu!</span>   
 
 FINE
