@@ -13,13 +13,13 @@ C’era una volta due sorelle che si chiamavano Alice ed Erica.
 Ad Alice piaceva disegnare tutto mentre ad Erica piaceva costruire.   
 Però anche se erano diverse si volevano bene.   
 Un giorno le due sorelle erano felici perché avrebbero fatto una gita in una foresta. Ad un certo punto le bambine videro una fata. La fata corse e le bambine la  inseguirono.   
-Ha un certo punto **"puf"** la fata sparì!   
-La fata era arrivata a **"Fata City"** ed era fantastico!!!   
+Ha un certo punto **puf** la fata sparì!   
+La fata era arrivata a **Fata City** ed era fantastico!!!   
 C’erano delle casette, un arcobaleno ed un carretto dei gelati!   
 
 <center><img src="https://alice.marzorati.co/img/post/casa.png" alt="amicizia"></center>
 
-## **ERA BELLISSIMO**   
+<center>## **ERA BELLISSIMO**</center>
 Era come un luna park perché <span style="color:purple">c’era tutto quello che desideri tu!</span>   
 
 FINE
